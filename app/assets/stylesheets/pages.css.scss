@@ -1,0 +1,28 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.header {
+ padding-left: 20px;
+ padding-right: 20px; 
+}
+
+/*.jumbotron {
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-image: url();
+ color: #006699;
+}*/
+
+.jumbotron h1 {
+ text-shadow: 2px 2px 2px darkgrey;
+}
+
+.footer {
+ padding-left: 100px;
+ padding-right: 100px; 
+}
+
+.footer img {
+ height: 70px;
+}
